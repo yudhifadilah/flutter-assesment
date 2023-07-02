@@ -1,5 +1,6 @@
 # fa_1213022 / flutter-assesment
-#this project still have a bug
+this project stil have a bug
+edit button stil not working
 
 A new Flutter project.
 
