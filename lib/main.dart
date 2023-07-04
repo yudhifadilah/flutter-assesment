@@ -1,3 +1,4 @@
+import 'package:fa_1213022/screens/homepage.dart';
 import 'package:fa_1213022/screens/todo_list.dart';
 import 'package:flutter/material.dart';
 
@@ -13,7 +14,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData.dark(),
-      home: TodoListPage(),
+      home: MyHomePage(),
     );
   }
 }
