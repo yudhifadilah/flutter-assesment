@@ -1,4 +1,14 @@
-# fa_1213022
+# Cara Penggunaan 
+Jalankan Api terlebih dahulu Go run main.go : https://github.com/yudhifadilah/back
+
+Kemudian buka Flutter lalu samakan Ip address di laptop dengan endpoint yang ada di flutter, lalu jalankan seperti biasa.
+
+# fa_1213022 / flutter-assesment
+Add Login Feature dan JWT Authenticasi,
+
+Not Available Logut, Register, and
+
+Edit Function stil not working 
 
 A new Flutter project.
 
@@ -6,11 +16,10 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+somepackage that i used to build this project is
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-dart http for api
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
