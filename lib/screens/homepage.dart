@@ -9,7 +9,7 @@ class MyHomePage extends StatelessWidget {
     AuthController authController = AuthController();
     return Scaffold(
       appBar: AppBar(
-        title: Text('Flutter JWT Login'),
+        title: Text('Ohang JWT Login'),
       ),
       body: Column(
         children: [
@@ -51,12 +51,12 @@ class MyHomePage extends StatelessWidget {
             height: 35,
           ),
           ElevatedButton(
-              onPressed: () {
-                authController.loginUser();
-              },
-              child: Text(
-                'Login',
-              )),
+            onPressed: () {
+              authController.loginUser(
+                  context); // Memanggil metode loginUser dengan parameter context
+            },
+            child: Text('Login'),
+          ),
         ],
       ),
     );
