@@ -4,11 +4,9 @@ Jalankan Api terlebih dahulu Go run main.go : https://github.com/yudhifadilah/ba
 Kemudian buka Flutter lalu samakan Ip address di laptop dengan endpoint yang ada di flutter, lalu jalankan seperti biasa.
 
 # fa_1213022 / flutter-assesment
-Add Login Feature dan JWT Authenticasi,
+Add Login, Logout, and Edit Feature dan JWT Authenticated.
 
-Not Available Logut, Register, and
-
-Edit Function stil not working 
+Not Available Register
 
 A new Flutter project.
 
@@ -19,6 +17,8 @@ This project is a starting point for a Flutter application.
 somepackage that i used to build this project is
 
 -dart http for api
+
+- dart shared preferences
 
 
 
