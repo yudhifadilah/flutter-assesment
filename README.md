@@ -5,7 +5,10 @@ Kemudian buka Flutter lalu samakan Ip address di laptop dengan endpoint yang ada
 
 # fa_1213022 / flutter-assesment
 Add Login Feature dan JWT Authenticasi,
-Not Available Logut, Register, and Edit Function 
+
+Not Available Logut, Register, and
+
+Edit Function stil not working 
 
 A new Flutter project.
 
